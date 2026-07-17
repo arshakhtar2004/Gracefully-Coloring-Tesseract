@@ -15,3 +15,6 @@ A little more time into this helped me frame the proof better with pigeonhole pr
 The observation was also correct and its implementation in the program turned out to be crucial as it reduced the time complexity of the run from BIG_O(15) to BIG_O(7), reducing 8 iterations of unviable possibilities.
 
 One important lesson learnt is that its generally a good practice to have fresh and simples chains of thought rather than complex branching chains. Logic doesnt usually require a lot of ifs and buts, just a few simple rules that are easier to figure out with better approaches.
+
+Graph plotting(was surprisingly hard to find a good usable image for the project) was done on Geogebra and link to the graph is pasted below:
+https://www.geogebra.org/m/qu5qrhf2
